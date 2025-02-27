@@ -53,14 +53,15 @@ Una vez instalado, muestra la versión de Java instalada y la ruta de instalaci�
 ¿ La versión de Java que te muestra es la 19? ¿ Por qué?
 
 Configura tu sistema para que utilice la versión de Java 19 como versión por defecto a nivel de usuario. (Si ya lo tienes explica por qué)
+![Captura de pantalla 2025-02-27 164050](https://github.com/user-attachments/assets/b63cefce-6bc1-4484-82e9-0aae0237d476)
+![Captura de pantalla 2025-02-27 164302](https://github.com/user-attachments/assets/da338829-f985-49e4-8b41-a7759975eb71)
+![Captura de pantalla 2025-02-27 164349](https://github.com/user-attachments/assets/0d7abbdf-a4e6-49ed-9baf-313754746070)
+![Captura de pantalla 2025-02-27 164430](https://github.com/user-attachments/assets/e8f73d2f-730c-4dbc-a8a9-bdff3190a679)
+![Captura de pantalla 2025-02-27 164830](https://github.com/user-attachments/assets/f97b3311-5b1a-42fe-aa17-d38397825c17)
+![Captura de pantalla 2025-02-27 165356](https://github.com/user-attachments/assets/c52642ec-02fa-4737-8a53-9fe122ecc4a1)
 
-¿ Cómo has configurado tu sistema para que utilice la versión de Java 19 como versión por defecto?
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 164050.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 164302.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 164349.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 164430.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 164830.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 165356.png"
+
+
 
 2. Utilización de SDKMan
 Instala SDKMan en Windows. (_Para ello puedes seguir la guía disponible aquí
@@ -98,15 +99,16 @@ Un proyecto en el que estas trabajando, neceseita la versión de Java 11, pero r
 ¿ Cómo puedes realizar esto con SDKMAN ? (indica los comandos que tienes que utilizar y la configuración de la herramienta)
 
 Haz una captura de pantalla entrando y saliendo del directorio del proyecto, para ver cono se activa y desactiva una versión y otra de Java.
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172958.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172137.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172145.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172321.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172426.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172524.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172554.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172752.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 172849.png"
+![Captura de pantalla 2025-02-27 172137](https://github.com/user-attachments/assets/74665499-a997-4376-8b81-6a3f13556606)
+![Captura de pantalla 2025-02-27 172145](https://github.com/user-attachments/assets/4dbd83ab-fcc1-4ca0-850f-e53bd878cff5)
+![Captura de pantalla 2025-02-27 172321](https://github.com/user-attachments/assets/fa59cda5-cb50-4c94-918f-b1c24759622e)
+![Captura de pantalla 2025-02-27 172426](https://github.com/user-attachments/assets/02d78572-8139-4807-aded-0f8a5aac86bc)
+![Captura de pantalla 2025-02-27 172524](https://github.com/user-attachments/assets/597265f5-2831-4a49-bf35-2eb3e2ec359a)
+![Captura de pantalla 2025-02-27 172554](https://github.com/user-attachments/assets/a999af7d-b356-482a-928d-54505f4aca13)
+![Captura de pantalla 2025-02-27 172752](https://github.com/user-attachments/assets/5db8d7b4-28c5-41cc-9a73-33c17c4a709a)
+![Captura de pantalla 2025-02-27 172849](https://github.com/user-attachments/assets/13ec4b64-5698-40cb-9b32-881d254d13c0)
+![Captura de pantalla 2025-02-27 172958](https://github.com/user-attachments/assets/a615d374-008b-4303-982c-969649c71cc2)
+
 3. Utilización de JetBrains IntelliJ IDEA
 Crea un nuevo proyecto en IntelliJ IDEA (TE21-Paso10) y configura en ese directorio, con SDKMAN para que utilize la versión de Java 11.
 Ahora al abrir IntellJ IDEA, debe activar esa versión automaticamente, pues detectar la configuración. (Incluye una captura de panntalla o GIF de la configuración))
@@ -125,7 +127,7 @@ En el módulo 3, crea una clase llamada Conversor que tenga un método que se ll
 
 En el módulo principal, crea una clase llamada Principal que tenga un método main que instancie las clases Utilidades y Conversor y que muestre por consola el resultado de las operaciones de la clase Utilidades y el resultado de las operaciones de la clase Conversor.
 (Muestra un gif donde se muestre la ejecución del programa, en depuración y se visualice que no existen errores de compilación ni ejecución).
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 174916.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 173048.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 174356.png"
-"C:\Users\Alumno_ciclo\tarea\Captura de pantalla 2025-02-27 174708.png"
+![Captura de pantalla 2025-02-27 173048](https://github.com/user-attachments/assets/69575419-3aa5-4ff3-b8b4-bb5e0197fbaf)
+![Captura de pantalla 2025-02-27 174356](https://github.com/user-attachments/assets/a730fa55-9bc9-4208-af17-4933feb1035d)
+![Captura de pantalla 2025-02-27 174708](https://github.com/user-attachments/assets/b8a32a40-5074-4deb-bda5-05940837727d)
+![Captura de pantalla 2025-02-27 174916](https://github.com/user-attachments/assets/5b0ef4a4-b6be-4aee-986f-44c366e6c961)
